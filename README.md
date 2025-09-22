@@ -1,7 +1,8 @@
 # 📅 WhatsApp Appointment Scheduling System
 
 A **full-stack web application** that allows users to schedule and manage appointments via a **ReactJS dashboard**, with a **FastAPI backend** that sends automated **WhatsApp notifications** using the Twilio API.
-
+![App Preview](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e938dfd0-7885-44f6-9668-17df3bbd3a20" />
+)
 ---
 
 ## 🚀 Features
@@ -122,7 +123,7 @@ npm start
 ```
 
 Frontend runs at: [http://localhost:3000](http://localhost:3000)
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/940c0fab-a224-4c21-9e49-656ffd3baf59" />
 ---
 
 ## 🔔 Notes
